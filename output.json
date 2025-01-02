@@ -1,0 +1,49 @@
+{
+  "122": 123,
+  "key": "value",
+  "key with quotes": "value wuith quotes",
+  "special_chars": "special: characters",
+  "single quotes": "value 'in' quotes \\u263A \\n",
+  "double quotes": "☺ ☻ \n",
+  "array (sequence)": [
+    "hello",
+    "world"
+  ],
+  "json array": [
+    "hello",
+    "world"
+  ],
+  "numbers": 100,
+  "boolean": true,
+  "null": null,
+  "also null": null,
+  "object (maps)": {
+    "key": "value",
+    "another": "value",
+    "nested object": {
+      "nested key": "values"
+    }
+  },
+  "json style object": {
+    "key": "value",
+    "another": "value",
+    "nested object": {
+      "nested key": "values"
+    }
+  },
+  "sequence": [
+    "item 1",
+    "item 2",
+    0.5,
+    {
+      "key": "value",
+      "another key": "value"
+    },
+    [
+      "nested array item",
+      "nested array item 2"
+    ]
+  ],
+  "literal block": "first line\nsecond line\n\n",
+  "folded block": "first line\nsecond line\n"
+}
